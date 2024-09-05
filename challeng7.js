@@ -21,7 +21,7 @@ let capital= ['Beijing','Tokyo','Seoul','Hanoï','Kuala Lumpur'];
 for(let i=0; i<= countries.length-1;i++){
         console.log("Your country : "+countries[i]+ "has the capital named :"+ capital[i]);
     }
-/*________________________________________________________________________________________________*/
+/*____________________________________________console____________________________________________________*/
 
 // var  randomizer=1;
 let randomizer = prompt("tapez un chifre entre 0 et 3");
@@ -39,7 +39,7 @@ switch( randomizer){
     console.log("Your fate is unclear, ô chosen undead");
     break;
 }
-/*________________________________________________________________________________________________*/
+/*_______________________________________console_________________________________________________________*/
 
 function checkSeason(){
     let valeurFaus= false;
